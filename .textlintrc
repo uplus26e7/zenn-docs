@@ -2,6 +2,6 @@
   "filters": {},
   "rules": {
     "preset-ja-spacing": true,
-    "preset-ja-technical-writing": true
+    "preset-ja-technical-writing": true,
   }
 }
