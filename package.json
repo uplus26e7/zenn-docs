@@ -1,0 +1,9 @@
+{
+  "name": "zenn-docs",
+  "version": "1.0.0",
+  "repository": "git@github.com:uplus26e7/zenn-docs.git",
+  "author": "Yuya Shintani <yuya.shintani.uplus26e7@gmail.com>",
+  "dependencies": {
+    "zenn-cli": "^0.1.81"
+  }
+}
